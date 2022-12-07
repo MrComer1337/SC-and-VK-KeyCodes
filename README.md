@@ -17,6 +17,7 @@ List of keys and mouse buttons
 [`WheelDown`](#WheelDown)
 
 </br>
+
 ##### [Letter keys](#letter-keys-table)
 
 [`A`](#A)
@@ -47,6 +48,7 @@ List of keys and mouse buttons
 [`Z`](#Z)
 
 </br>
+
 ##### [Digit keys](#digit-keys-table)
 
 [`0`](#0)
@@ -61,6 +63,7 @@ List of keys and mouse buttons
 [`9`](#9)
 
 </br>
+
 ##### [Non-letter keys](#non-letter-keys-table)
 
 [`Space`](#Space)
@@ -77,6 +80,7 @@ List of keys and mouse buttons
 [`\`](#\\)
 
 </br>
+
 ##### [Other keys](#other-keys-table)
 
 [`AppsKey`](#AppsKey)
@@ -92,6 +96,7 @@ List of keys and mouse buttons
 [`Tab`](#Tab)
 
 </br>
+
 ##### [Modifier keys](#modifier-keys-table)
 
 [`Shift`](#Shift)
@@ -105,6 +110,7 @@ List of keys and mouse buttons
 [`RAlt`](#RAlt)
 
 </br>
+
 ##### [Cursor control keys](#cursor-control-keys-table)
 
 [`←`](#Left)
@@ -120,6 +126,7 @@ List of keys and mouse buttons
 [`ScrollLock`](#ScrollLock)
 
 </br>
+
 ##### [Numpad keys](#numpad-keys-table)
 
 [`NumLock`](#NumLock)
@@ -141,6 +148,7 @@ List of keys and mouse buttons
 [`Numpad -`](#NumpadSub)
 
 </br>
+
 ##### [Function keys](#function-keys-table)
 
 [`F1`](#F1)
@@ -158,6 +166,7 @@ List of keys and mouse buttons
 [`F12`](#F12)
 
 </br>
+
 ##### [Multimedia keys](#multimedia-keys-table)
 
 [`Browser_Back`](#Browser_Back)
@@ -180,6 +189,7 @@ List of keys and mouse buttons
 [`Launch_App2`](#Launch_App2)
 
 </br>
+
 Tables of virtual and scan codes
 =================================================
 
