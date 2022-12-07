@@ -391,11 +391,6 @@ Tables of virtual and scan codes
 
 End of the document. Empty space for big monitors.
 
-[To top](#list-of-keys-and-mouse-buttons)
-
-</br></br></br></br></br></br></br></br></br></br>
-</br></br></br></br></br></br></br></br></br></br>
-</br></br></br></br></br></br></br></br></br></br>
 </br></br></br></br></br></br></br></br></br></br>
 
 [To top](#list-of-keys-and-mouse-buttons)
